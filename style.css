@@ -1,0 +1,21 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.Fortnite-image {
+    width: 200px;
+}
+
+.Fortnite-container {
+    display: inline-block;
+    margin: 81px;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+.Fortnite-description {
+    text-align: center;
+}
